@@ -1,7 +1,3 @@
-//Fredrik Haupt caha6864
-
-// Labb3, Datum.h – klassdefinition
-
 #ifndef DATUM_H
 #define DATUM_H
 
