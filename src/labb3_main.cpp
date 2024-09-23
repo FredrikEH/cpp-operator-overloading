@@ -1,7 +1,3 @@
-//Fredrik Haupt caha6864
-
-// Labb3, Datum
-
 #include <iostream>
 #include "Datum.h"
 
