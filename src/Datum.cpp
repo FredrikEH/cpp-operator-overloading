@@ -1,7 +1,3 @@
-//Fredrik Haupt caha6864
-
-// Labb3, Datum.cpp – definitioner av icke-triviala medlemsfunktioner
-
 #include <iostream>
 #include <string>
 #include "Datum.h"
